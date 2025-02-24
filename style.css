@@ -11,7 +11,7 @@ body{
 }
 header{
     display: flex;
-    background-color:black;
+    background-color:navy;
     color: beige;
     padding: 8px;
     position: fixed;
